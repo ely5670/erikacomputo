@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: purple;
+}
+
+h1{
+    color: white;
+}
+
+.botones{
+    margin: 20px;
+}
+
+button{
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+iframe{
+    width: 80%;
+    height: 500px;
+    border: 2px solid pink;
+    margin-top: 20px;
+}
